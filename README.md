@@ -6,7 +6,7 @@ https://uujinn.github.io/HTML_Study/index.html
 
 - 3/24 I Love It 웹 사이트 제작
 - 3/25 서버, 클라이언트, 웹 호스팅
-- 3/26 Bitnami MAMP을 이용한 웹서버 설치
+- 3/26 Bitnami MAMP을 이용한 웹서버 생성
 - 3/27 
   - 웹 사이트에 동영상 삽입
   - 웹 사이트에 댓글 기능 추가
