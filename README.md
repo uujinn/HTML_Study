@@ -11,3 +11,4 @@ https://uujinn.github.io/HTML_Study/index.html
   - 동영상 삽입 (youtube - embed iframe code)
   - Disqus를 이용한 댓글 기능 추가
   - tawk를 이용한 채팅 기능 추가
+  - google analytics를 이용한 웹사이트 방문자 분석기 추가
