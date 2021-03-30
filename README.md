@@ -15,4 +15,5 @@ https://uujinn.github.io/HTML-CSS-Study/index.html
   - google analytics를 이용한 웹사이트 방문자 분석기 추가
 
 ### CSS
-- 3/29 contents font color 변경
+- 3/29 contents font color 변경 by HTML 태그
+- 3/30 changed contents font color / underline by CSS 태그 & 속성
