@@ -18,3 +18,5 @@ https://uujinn.github.io/HTML-CSS-Study/index.html
 - 3/29 contents font color 변경 by HTML 태그
 - 3/30 changed contents font color / underline by CSS 태그 & 속성
 - 3/31 contents 가운데 정렬
+- 3/32 id 선택자 > class 선택자 > a 선택자
+ 
