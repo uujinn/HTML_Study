@@ -37,17 +37,28 @@
     /* display: table;
     margin-left: auto;
     margin-right: auto;
-     */
-     border-right: 1px solid gray;
-     width: 100px;
-     margin: 0;
-     padding: 20px;
+    */
+    border-right: 1px solid gray;
+    width: 100px;
+    margin: 0;
+    padding: 20px;
+
   }
-  .saw {
+  /* .saw {
     color:gray;
-  }
+  } */
   #active{
     color:red;
+  }
+  #grid ol{
+    padding-left:33px;
+  }
+  #grid{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+  }
+  #grid #article{
+    padding-left: 25px;
   }
   </style>
 
@@ -55,11 +66,13 @@
 
   <body>
     <h1><a href="index.html">My favorites</a></h1>
+<div id="grid">
     <ol>
-      <li><a href="Food.html" class="saw">Food</a></li>
-      <li><a href="Music.html" class="saw" id="active">Music</a></li>
+      <li><a href="Food.html" >Food</a></li>
+      <li><a href="Music.html" id="active">Music</a></li>
       <li><a href="Movie.html" >Movie</a></li>
     </ol>
+  <div id="article">
     <p style="margin-top:40px;">
     <h3>Music 🎵</h3>
     Bunny
@@ -112,6 +125,8 @@
       })();
     </script>
     <!--End of Tawk.to Script-->
+  </div>
+</div>
   </body>
 
 </html>

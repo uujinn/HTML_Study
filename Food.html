@@ -37,17 +37,29 @@
       /* display: table;
       margin-left: auto;
       margin-right: auto;
-       */
-       border-right: 1px solid gray;
-       width: 100px;
-       margin: 0;
-       padding: 20px;
+      */
+      border-right: 1px solid gray;
+      width: 100px;
+      margin: 0;
+      padding: 20px;
+
     }
-    .saw {
+    /* .saw {
       color:gray;
+    } */
+
+    #grid ol{
+      padding-left:33px;
     }
     #active{
       color:red;
+    }
+    #grid{
+      display: grid;
+      grid-template-columns: 150px 1fr;
+    }
+    #grid #article{
+      padding-left: 25px;
     }
   </style>
 
@@ -55,11 +67,13 @@
 
   <body>
     <h1><a href="index.html">My favorites</a></h1>
+<div id="grid">
     <ol>
-      <li><a href="Food.html" class="saw" id="active">Food</a></li>
+      <li><a href="Food.html" id="active">Food</a></li>
       <li><a href="Music.html">Music</a></li>
       <li><a href="Movie.html">Movie</a></li>
     </ol>
+  <div id="article">
     <p style="margin-top:40px;"></p>
     <h3>Food 😋</h3>
     <img src="alioolio.jpg" width="50%">
@@ -105,6 +119,8 @@
       })();
     </script>
     <!--End of Tawk.to Script-->
+  </div>
+</div>
   </body>
 
 </html>
