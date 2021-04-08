@@ -2,7 +2,8 @@
 ## My favorites
 https://uujinn.github.io/HTML-CSS-Study/index.html
 <br><br>
-<img width="45%" alt="스크린샷 2021-04-06 오후 6 16 33" src="https://user-images.githubusercontent.com/70887135/113688447-451b1c00-9704-11eb-948b-796d0d841511.png">
+<img width="65%" alt="스크린샷 2021-04-08 오전 12 46 29" src="https://user-images.githubusercontent.com/70887135/113895370-e210ae80-9803-11eb-96ea-2095228644c7.png">
+
 
 
 ### HTML
