@@ -23,3 +23,4 @@ https://uujinn.github.io/HTML-CSS-Study/index.html
 - 4/1 id 선택자 > class 선택자 > a 선택자
 - 4/6 box 모델 (padding, margin, display ..)
 - 4/7 grid 추가
+- 4/14 media query 추가 -> 반응형 s
