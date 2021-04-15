@@ -1,4 +1,4 @@
-# HTML-CSS-Study
+# WEB
 ## My favorites
 https://uujinn.github.io/HTML-CSS-Study/index.html
 <br><br>
