@@ -25,3 +25,5 @@ https://uujinn.github.io/HTML-CSS-Study/index.html
 - 4/7 grid 추가
 - 4/14 media query 추가 -> 반응형 web page
 - 4/15 style.css 추가
+
+### JavaScript
