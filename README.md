@@ -1,4 +1,4 @@
-# My favorites_WEB
+# My favorites
 ## Practice for HTML-CSS-Javscript
 https://uujinn.github.io/MyFavorites_WEB/index.html
 <br><br>
