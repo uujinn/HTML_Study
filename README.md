@@ -27,4 +27,6 @@ https://uujinn.github.io/HTML-CSS-Study/index.html
 - 4/15 style.css 추가
 
 ### JavaScript
-- 6/26 정적인 html과 동적인 javascript를 만나게 해주는 script 태그
+- 6/26 
+  - ex1.html: 정적인 html과 동적인 javascript를 만나게 해주는 script 태그
+  - ex2.html: event
