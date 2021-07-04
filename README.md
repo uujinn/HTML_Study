@@ -30,3 +30,5 @@ https://uujinn.github.io/MyFavorites/index.html
 - 6/26 
   - ex1.html: 정적인 html과 동적인 javascript를 만나게 해주는 script 태그
   - ex2.html: event
+- 7/5
+  - console 이해
