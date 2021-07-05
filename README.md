@@ -1,6 +1,8 @@
 # My favorites
-## Practice for HTML-CSS-Javscript
-https://uujinn.github.io/MyFavorites/index.html
+## 생활코딩 - WEB
+생활코딩: https://opentutorials.org/course
+<br>
+My favorites: https://uujinn.github.io/MyFavorites/index.html
 <br><br>
 <img width="65%" alt="스크린샷 2021-04-08 오전 12 46 29" src="https://user-images.githubusercontent.com/70887135/113895370-e210ae80-9803-11eb-96ea-2095228644c7.png">
 
