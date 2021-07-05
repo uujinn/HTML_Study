@@ -1,5 +1,5 @@
 # My favorites
-## 생활코딩 - WEB
+## 생활코딩(WEB) 응용
 생활코딩: https://opentutorials.org/course/1
 <br>
 My favorites: https://uujinn.github.io/MyFavorites/index.html
